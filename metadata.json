@@ -1,0 +1,6 @@
+{
+  "name": "NexusInventory Enterprise",
+  "description": "World-class advanced inventory management, POS terminal, multi-warehouse stock ledger, sales, purchasing, customer/supplier accounts, expense tracking, and real-time financial reporting system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
